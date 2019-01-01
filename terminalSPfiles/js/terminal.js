@@ -56,7 +56,7 @@ function terminal(){
             break;
             
         default:
-            document.search.action = "http://www.google.com/search?hl=en-US&source=hp&q=";
+            document.search.action = "https://duckduckgo.com/?q=";
             break;
             
     }
