@@ -19,7 +19,7 @@ function terminal(){
     switch (input) {
             
         case "all":
-                var linksArray =['https://www.google.com','http://www.facebook.com','http://www.stackoverflow.com'],i;
+                var linksArray =['https://start.duckduckgo.com','https://nulled.to','http://www.stackoverflow.com'],i;
                 $('#open').click(function() {
                     for( i=0; linksArray.length > i; i++){
                         window.open(linksArray[i]);
