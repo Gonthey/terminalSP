@@ -1,6 +1,6 @@
 # TerminalSP
 Web project to act as a custom browser startpage.
-
+First created by David Rela then forked by me to add some links.
 ## Live Demo
 https://davidrela.github.io/terminalSP/
 
